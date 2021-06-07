@@ -3,6 +3,8 @@ public class App {
     Long i = null;
     System.out.println(i);
     System.out.println(i);
+    System.out.println("Hello");
+    System.out.println("World");
   }
 
 }
